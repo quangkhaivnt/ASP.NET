@@ -113,8 +113,8 @@ E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\bin\Microso
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\bin\Microsoft.AI.WindowsServer.xml
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\bin\Microsoft.AI.Web.xml
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.csprojAssemblyReference.cache
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.csproj.CoreCompileInputs.cache
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.csproj.CopyComplete
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.dll
 E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.pdb
+E:\ASP.NET\EntityFrameworkDatabaseFirst\EntityFrameworkDatabaseFirst\obj\Debug\EntityFrameworkDatabaseFirst.csprojAssemblyReference.cache

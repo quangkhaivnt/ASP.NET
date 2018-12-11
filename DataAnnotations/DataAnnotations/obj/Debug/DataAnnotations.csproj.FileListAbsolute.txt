@@ -113,7 +113,6 @@ E:\ASP.NET\DataAnnotations\DataAnnotations\bin\Microsoft.AI.DependencyCollector.
 E:\ASP.NET\DataAnnotations\DataAnnotations\bin\Microsoft.AI.WindowsServer.xml
 E:\ASP.NET\DataAnnotations\DataAnnotations\bin\Microsoft.AI.Web.xml
 E:\ASP.NET\DataAnnotations\DataAnnotations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\ASP.NET\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csprojAssemblyReference.cache
 E:\ASP.NET\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
 E:\ASP.NET\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
 E:\ASP.NET\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.dll

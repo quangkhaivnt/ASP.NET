@@ -8,7 +8,7 @@ namespace EntityFrameworkDatabaseFirst.Controllers
 {
     public class EmployeeController : Controller
     {
-        EmployeeContext db = new EmployeeContext();
+        EmployeeContext1 db = new EmployeeContext1();
 
         public ActionResult Index()
         {
@@ -23,8 +23,7 @@ namespace EntityFrameworkDatabaseFirst.Controllers
 
         [HttpPost]
         public ActionResult Create(Employee employee)
-        {
-           
+        {          
                 if (ModelState.IsValid)
                 {
                     db.Employees.Add(employee);

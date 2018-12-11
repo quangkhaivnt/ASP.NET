@@ -13,10 +13,10 @@ namespace EntityFrameworkDatabaseFirst
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class EmployeeContext : DbContext
+    public partial class EmployeeContext1 : DbContext
     {
-        public EmployeeContext()
-            : base("name=EmployeeContext")
+        public EmployeeContext1()
+            : base("name=EmployeeContext1")
         {
         }
     
@@ -25,6 +25,5 @@ namespace EntityFrameworkDatabaseFirst
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Employee> Employees { get; set; }
     }
 }

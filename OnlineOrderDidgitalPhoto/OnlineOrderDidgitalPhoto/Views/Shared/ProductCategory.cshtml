@@ -1,0 +1,26 @@
+﻿@model List<Models.Category>
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true"
+       aria-expanded="false">
+        Sảm phẩm
+    </a>
+    <ul class="dropdown-menu mega-menu ">
+        <li>
+            <div class="row">
+                <div class="col-md-4 media-list span4 text-left">
+                    <ul>
+                        @foreach (var item in Model)
+                        {
+                            <li class="media-mini mt-3">
+                                <a href="/sam-pham/@item.nameCategory-@item.id">@item.nameCategory</a>
+                            </li>
+                            
+                        }
+
+                    </ul>
+                </div>
+            </div>
+            <hr>
+        </li>
+    </ul>
+</li>
